@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Bengkel</string>
+    <string-array name="Pilihan">
+        <item>Roda Dua</item>
+        <item>Roda Empat</item>
+    </string-array>
+</resources>
